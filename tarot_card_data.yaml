@@ -1,7 +1,7 @@
-path: ../
-train: card-recognition-model/images/train/
-val: card-recognition-model/images/val/
-test: card-recognition-model/images/test/
+path: /Users/stephane_branly/Documents/Projets/FrenchTarot/card-recognition-model
+train: images/train/
+val: images/val/
+test: images/test/
 
 # number of classes
 nc: 78

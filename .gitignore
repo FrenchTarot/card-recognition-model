@@ -168,5 +168,6 @@ new_model/
 runs/
 wandb/
 saved_model/
+article/
 assets/labels.json
 yolov8n.pt
